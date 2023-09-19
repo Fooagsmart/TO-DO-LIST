@@ -23,3 +23,4 @@ let addItem = (inputBx) => {
 
         list.appendChild(listItem);
     }
+    window.alert('failure to plan is simply planning to Fail')
